@@ -1,10 +1,8 @@
 
-![Firefly Create a clean, modern, 10-second developer-themed intro video in 1600×900 resolution  Keep ](https://github.com/user-attachments/assets/893e4182-2947-4bbb-8eb7-531a342143ce)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/893e4182-2947-4bbb-8eb7-531a342143ce" alt="intro gif" width="800">
+</p>
 
-
-<!-- <div align="center">
-  <img src="https://github.com/user-attachments/assets/a5355b1f-ba58-4174-85bc-22325c5b227e"   alt="intro gif" />
-</div> -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bibhuti17&color=blue)
 
