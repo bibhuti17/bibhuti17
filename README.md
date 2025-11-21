@@ -63,15 +63,24 @@
 
 ### 📫 Let's Connect
 <p align="center">
+  
   <a href="https://linkedin.com/in/bibhuti17">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  
   <a href="mailto:binarybibhuti01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-<a href="https://linkedin.com/in/bibhuti17">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ <a href="https://stackoverflow.com/users/31922690/bibhuti-bhusan-naik">
+    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
 </a>
+    <a href="https://x.com/bibhutibhusan_7">
+    <img src="https://img.shields.io/badge/Twitter%20(X)-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://www.reddit.com/user/bibhuti17/">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+</a>
+
 </p>
 
 
