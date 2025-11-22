@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/893e4182-2947-4bbb-8eb7-531a342143ce" alt="intro gif" width="800">
 </p>
@@ -18,8 +17,8 @@
 ### 🔥 What I'm Working On
 <div align="left">
   <p>
-   🔭 <b>Building:</b> AI-powered web application.<br/>
-    🧠 <b>Learning:</b> Devops<br/>
+   🔭 <b>Building:</b> AI-powered web application - VIRTUAL ASSISTANT.<br/>
+    🧠 <b>Learning:</b> Devops <br/>
    💡 <b>Practicing:</b> Data Structures & Algorithms 
   </p>
 </div>
