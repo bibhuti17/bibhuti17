@@ -52,12 +52,13 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=bibhuti17&show_icons=true&theme=tokyonight&border_color=ffffff" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bibhuti17&theme=tokyonight&border=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bibhuti17&show_icons=true&theme=tokyonight&border_color=ffffff" alt="Bibhuti's GitHub Stats" />
   
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bibhuti17&theme=tokyonight&border=ffffff" alt="Bibhuti's Streak" />
+
   <br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=bibhuti17&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="bibhuti's Most Used Languages" />
-<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibhuti17&layout=compact&theme=tokyonight&border_color=ffffff" /> -->
+
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=bibhuti17&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Bibhuti's Most Used Languages" />
 
 </div>
 
